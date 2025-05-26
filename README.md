@@ -1,1 +1,1 @@
-# ExercisesList
+# Exercise list for logic practice
